@@ -5,6 +5,6 @@ public class OverKillService {
     OverKillService(){}
 
     public String concatenate2(String name) {
-        return "Hello " + name + "Cup";
+        return "Hello " + name;
     }
 }
